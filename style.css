@@ -1,0 +1,32 @@
+body{
+    background-color: gainsboro;
+}
+
+
+.feed-container{
+    width: 500px;
+    height: 490px;
+    background-color: white;
+    margin-left: 540px;
+    margin-top: 30px;
+}
+
+.top-part{
+    justify-content: space-between;
+    display: flex;
+    margin: 5px;
+    
+}
+
+.number-foto{
+    margin-top: 25px;
+    color: #C0C0C0;
+}
+
+img{
+    width: 500px;
+}
+
+.footer-part{
+    margin: 5px;
+}
